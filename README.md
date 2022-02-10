@@ -65,5 +65,5 @@ Hok-Makeup is typical women makeup buying website which provides a platform wher
 
 * [Surendra Kumar Rout](https://github.com/SurendraKumarRout) 
 * [Jaskaran Singh](https://github.com/jaskaranpr) 
-* [Amit surendra jangid](https://github.com/jangidamit358r) 
+* [Amit surendra jangid](https://github.com/jangidamit358) 
   
